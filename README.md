@@ -1,5 +1,6 @@
 # Portfolio
-Portfolio untuk tugas web programming
+Portfolio untuk tugas web programming.
+[Live Demo.](https://kusumoraharjo.github.io/portfolio/)
 
 ## Screenshot
 
